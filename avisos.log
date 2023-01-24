@@ -1,0 +1,58 @@
+[2022-07-11 14:27:42] [ INFO ] [OdontologoController:40] Listando odontólogos
+[2022-07-11 15:03:13] [ INFO ] [OdontologoController:40] Listando odontólogos
+[2022-07-11 17:01:07] [ INFO ] [OdontologoService:26] Paciente registrado exitosamente
+[2022-07-11 17:01:07] [ INFO ] [OdontologoService:26] Odontólogo registrado exitosamente
+[2022-07-11 17:01:07] [ INFO ] [OdontologoService:40] Turno registrado exitosamente
+[2022-07-11 17:07:45] [ INFO ] [OdontologoService:26] Paciente registrado exitosamente
+[2022-07-11 17:07:45] [ INFO ] [OdontologoService:26] Odontólogo registrado exitosamente
+[2022-07-11 17:07:45] [ INFO ] [OdontologoService:40] Turno registrado exitosamente
+[2022-07-11 17:07:45] [ INFO ] [OdontologoService:48] Listando turnos
+[2022-07-11 17:08:35] [ INFO ] [OdontologoService:26] Paciente registrado exitosamente
+[2022-07-11 17:08:40] [ INFO ] [OdontologoService:35] Listando pacientes
+[2022-07-11 17:38:52] [ INFO ] [OdontologoService:26] Paciente registrado exitosamente
+[2022-07-11 17:38:53] [ INFO ] [OdontologoService:35] Listando pacientes
+[2022-07-11 17:39:02] [ INFO ] [OdontologoService:35] Listando pacientes
+[2022-07-11 17:39:12] [ INFO ] [OdontologoService:26] Odontólogo registrado exitosamente
+[2022-07-11 17:39:14] [ INFO ] [OdontologoService:44] Listando odontólogos
+[2022-07-11 17:39:18] [ INFO ] [OdontologoService:44] Listando odontólogos
+[2022-07-11 17:39:27] [ INFO ] [OdontologoService:40] Turno registrado exitosamente
+[2022-07-11 17:39:28] [ INFO ] [OdontologoService:48] Listando turnos
+[2022-07-11 17:45:48] [ INFO ] [OdontologoService:26] Paciente registrado exitosamente
+[2022-07-11 17:45:58] [ INFO ] [OdontologoService:26] Paciente registrado exitosamente
+[2022-07-11 17:46:00] [ INFO ] [OdontologoService:35] Listando pacientes
+[2022-07-11 17:46:07] [ INFO ] [OdontologoService:44] Listando odontólogos
+[2022-07-11 17:46:20] [ INFO ] [OdontologoService:26] Odontólogo registrado exitosamente
+[2022-07-11 17:46:21] [ INFO ] [OdontologoService:44] Listando odontólogos
+[2022-07-11 17:46:29] [ INFO ] [OdontologoService:40] Turno registrado exitosamente
+[2022-07-11 17:48:03] [ INFO ] [OdontologoService:26] Paciente registrado exitosamente
+[2022-07-11 17:48:03] [ INFO ] [OdontologoService:26] Odontólogo registrado exitosamente
+[2022-07-11 17:48:03] [ INFO ] [OdontologoService:40] Turno registrado exitosamente
+[2022-07-11 17:48:03] [ INFO ] [OdontologoService:48] Listando turnos
+[2022-07-11 17:48:22] [ INFO ] [OdontologoService:26] Paciente registrado exitosamente
+[2022-07-11 17:48:22] [ INFO ] [OdontologoService:26] Paciente registrado exitosamente
+[2022-07-11 17:48:22] [ INFO ] [OdontologoService:26] Paciente registrado exitosamente
+[2022-07-11 17:48:23] [ INFO ] [OdontologoService:35] Listando pacientes
+[2022-07-11 17:48:34] [ INFO ] [OdontologoService:26] Odontólogo registrado exitosamente
+[2022-07-11 17:48:34] [ INFO ] [OdontologoService:44] Listando odontólogos
+[2022-07-11 17:48:45] [ INFO ] [OdontologoService:26] Paciente registrado exitosamente
+[2022-07-11 17:48:45] [ INFO ] [OdontologoService:26] Odontólogo registrado exitosamente
+[2022-07-11 17:48:45] [ INFO ] [OdontologoService:40] Turno registrado exitosamente
+[2022-07-11 17:48:45] [ INFO ] [OdontologoService:48] Listando turnos
+[2022-07-11 17:48:57] [ INFO ] [OdontologoService:26] Paciente registrado exitosamente
+[2022-07-11 17:49:09] [ INFO ] [OdontologoService:44] Listando odontólogos
+[2022-07-11 17:53:26] [ INFO ] [OdontologoService:44] Listando odontólogos
+[2022-07-11 17:54:36] [ INFO ] [OdontologoService:35] Listando pacientes
+[2022-07-11 17:54:45] [ INFO ] [OdontologoService:26] Paciente registrado exitosamente
+[2022-07-11 17:54:48] [ INFO ] [OdontologoService:35] Listando pacientes
+[2022-07-11 17:54:54] [ INFO ] [OdontologoService:26] Odontólogo registrado exitosamente
+[2022-07-11 17:54:55] [ INFO ] [OdontologoService:44] Listando odontólogos
+[2022-07-11 17:55:06] [ INFO ] [OdontologoService:40] Turno registrado exitosamente
+[2022-07-11 17:55:07] [ INFO ] [OdontologoService:48] Listando turnos
+[2022-07-11 17:55:56] [ INFO ] [OdontologoService:40] Turno registrado exitosamente
+[2022-07-11 17:55:58] [ INFO ] [OdontologoService:48] Listando turnos
+[2022-08-24 15:36:26] [ INFO ] [OdontologoService:26] Odontólogo registrado exitosamente
+[2022-08-24 15:36:27] [ INFO ] [OdontologoService:44] Listando odontólogos
+[2022-11-01 21:49:29] [ INFO ] [OdontologoService:26] Odontólogo registrado exitosamente
+[2022-11-01 21:49:30] [ INFO ] [OdontologoService:44] Listando odontólogos
+[2022-11-01 21:50:26] [ INFO ] [OdontologoService:26] Odontólogo registrado exitosamente
+[2022-11-01 21:50:26] [ INFO ] [OdontologoService:44] Listando odontólogos
